@@ -5,7 +5,7 @@ const allowedOrigins = [
   'http://www.qhseacademieandconsulting.com',
   'https://www.qhseacademieandconsulting.com',
   'https://qhseacademieandconsulting.vercel.app',
-  'https://qhseacademieandconsulting.com/',
+  'https://qhseacademieandconsulting.com',
 ];
 
 module.exports = allowedOrigins;
